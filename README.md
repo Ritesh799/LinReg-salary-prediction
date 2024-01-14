@@ -1,0 +1,1 @@
+# LinReg-salary-prediction
